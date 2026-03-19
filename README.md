@@ -1,3 +1,4 @@
+'''mermaid
 sequenceDiagram
     participant U as Desenvolvedor
     participant A as Git Local
